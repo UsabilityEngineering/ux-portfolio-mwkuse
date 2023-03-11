@@ -6,11 +6,13 @@ Many of those interested in video games have been using Discord to communicate w
 
 There have been other applications that try to have tried to implement a similar set of features, but it seems widely believed that none are as memorable as Discord. In terms of user experience, something is memorable if it is easily navigable, which discord does particularly well. Discord, unlike other voice chat applications such as Team Speak, allows you to join a community, which they call servers, at the click of a link. 
 
-IMAGE
+<img alt="Screenshot of the promt that allows you to join an existing Discord server" src="../assets/Join\ Server.png" style="width:500px;"/>
+
 
 These servers each have their own subsections which are usually grouped by category with many “channels” that one can join to talk with other users through voice or text and images. Discord has a simple and efficient interface that makes it easily learnable. 
 
-IMAGE
+<img alt="Screenshot of the Discord application interface, specifically the Chico State computer science server" src="../assets/Discord\ Interface.png" style="width:500px;"/>
+
 
 The Discord app is learnable due to its simple layout with the user’s servers, or communities, in the first column on the far left of the screen. When a server is selected you can join any of the text or voice channels, as well as see which members of the server are online or in each voice channel. The screenshot above shows the Chico State Computer Science discord server with a text channel that you can join for each respective course in the Chico State course catalog.
 
