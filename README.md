@@ -9,3 +9,5 @@ Coming soon.
 ## UX Journal
 
 [Finding Communication through Discord](j01/)
+
+[Can You Ditch Your File Cabinet with Drive?](j02/)
